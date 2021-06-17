@@ -1,0 +1,13 @@
+.Menu{
+    background-color: pink;
+}
+
+.Icon{
+    margin-left: 10px;
+}
+
+.Nombre{
+    font-size: 30px;
+    margin-right: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

@@ -1,0 +1,116 @@
+{
+	"diauno":[
+		{
+			"ejercicio": "Bicicleta",
+			"descripcion": "Entrada en calor en bicicleta",
+			"cantidad": "10 minutos",
+			"imagen":"https://firebasestorage.googleapis.com/v0/b/app-rutina-gym.appspot.com/o/bibicleta.jpg?alt=media&token=0e91756b-83d1-42a1-b849-5e8343ad1ee1"
+		},{
+			"ejercicio": "Estocadas con mancuerna",
+			"descripcion": "Estocadas hacia adelante con mancuernas de 5 kilos ",
+			"cantidad": "10 con cada pierna",
+			"imagen":"https://firebasestorage.googleapis.com/v0/b/app-rutina-gym.appspot.com/o/estocada-mancuernas.jpeg?alt=media&token=1521bf0a-a734-41c8-9017-20a0649a5ff9"
+		},{
+			"ejercicio": "Sentadilla",
+			"descripcion": "Sentadillas con piernas a 90°",
+			"cantidad": "15",
+			"imagen":"https://firebasestorage.googleapis.com/v0/b/app-rutina-gym.appspot.com/o/sentadilla.jpg?alt=media&token=ac8b29ee-a996-42da-a7c1-82c8913e353b"
+		},{
+			"ejercicio": "Peso muerto a una pierna",
+			"descripcion": "Peso muerto a una pierna con mancuerna de 6 kilos",
+			"cantidad": "10 con cada pierna",
+			"imagen":"https://firebasestorage.googleapis.com/v0/b/app-rutina-gym.appspot.com/o/peso-muerto-una-pierna.jpg?alt=media&token=9b9281c7-9a74-423b-aa00-7990c6ed3823"
+		},{
+			"ejercicio": "Abdominales cortos",
+			"descripcion": "Abdominales cortos, elevando sólo escápulas y manteniendo la vista al techo",
+			"cantidad": "20",
+			"imagen":"https://firebasestorage.googleapis.com/v0/b/app-rutina-gym.appspot.com/o/abdominal-corto.jpg?alt=media&token=9f5a9948-d98b-48f0-9032-e7fbc62ca2a0"
+		},{
+			"ejercicio": "Abdominales largos",
+			"descripcion": "Abdominales largo, elevanto todo el tronco, manteniendo la mirada al frente y el mentón alejado del pecho",
+			"cantidad": "20",
+			"imagen":"https://firebasestorage.googleapis.com/v0/b/app-rutina-gym.appspot.com/o/abdominal-largo.jpg?alt=media&token=af202dba-dfb3-4065-b9bc-f9a32f72bd06"
+		},{
+			"ejercicio": "Abdominales elevación de piernas",
+			"descripcion": "Abdominales bajos, subiendo y bajando las piernas extendidas",
+			"cantidad": "20",
+			"imagen":"https://firebasestorage.googleapis.com/v0/b/app-rutina-gym.appspot.com/o/abs-elevacion-piernas.jpg?alt=media&token=f26c1cc6-a01f-4db9-90bc-928e483072e1"
+		}
+	],
+	"diados":[
+		{
+			"ejercicio": "Entrada en calor brazos",
+			"descripcion": "Círculos con los brazos. 30 segundos hacia adelante y 30 segundos hacia atrás",
+			"cantidad": "3 veces",
+			"imagen":"https://firebasestorage.googleapis.com/v0/b/app-rutina-gym.appspot.com/o/entrada-calor-brazos.png?alt=media&token=76a962a6-7325-4bae-a981-e818bccb2a2f"
+		},{
+			"ejercicio": "Patada de biceps",
+			"descripcion": "De pie, toma las mancuernas de 3 kilos e inclina un poco la parte superior del cuerpo, hasta que casi esté en paralelo al suelo. Las palmas de las manos miran hacia el cuerpo y utiliza el tríceps para levantar la mancuerna hasta que el brazo quede flexionado. Es importante mover solo el antebrazo y mantener el codo fijo",
+			"cantidad": "10",
+			"imagen":"https://firebasestorage.googleapis.com/v0/b/app-rutina-gym.appspot.com/o/patada-biceps.jpg?alt=media&token=729cc20d-a4f3-4aa8-9e94-7405fdd30b3c"
+		},{
+			"ejercicio": "Elevación de hombros unilateral",
+			"descripcion": "De pie, con las mancuernas de 3 kilos en las manos colocaremos un brazo a la altura del pecho y desde aquí estiraremos el brazo hacia arriba, extendiéndolo. Es importante que la fuerza se haga únicamente con los brazos, y que el resto del cuerpo permanezca estable, manteniendo la espalda recta.",
+			"cantidad": "10 con cada brazo",
+			"imagen":"https://firebasestorage.googleapis.com/v0/b/app-rutina-gym.appspot.com/o/patada-biceps.jpg?alt=media&token=729cc20d-a4f3-4aa8-9e94-7405fdd30b3c"
+		},{
+			"ejercicio": "Curl de bíceps",
+			"descripcion": "De pie, con la espalda recta y las piernas separadas al ancho de los hombros, lleva las mancuernas (5 kilos) hacia el pecho. Si no puedes llevar los brazos al pecho a la vez, ve intercalando un brazo y el otro. Asegúrate de mantener el codo pegado al cuerpo y de hacer la fuerza con los bíceps. ¡Cuidado con las lumbares!",
+			"cantidad": "10 con cada brazo",
+			"imagen":"https://firebasestorage.googleapis.com/v0/b/app-rutina-gym.appspot.com/o/curl_biceps.jpg?alt=media&token=796985a4-de0c-4b05-9959-16a685ab575b"
+		},{
+			"ejercicio": "Press banca con mancuernas",
+			"descripcion": "Colócate boca arriba en el suelo, con la espalda pegada y las piernas dobladas. Ahora lleva las mancuernas hacia el pecho. Con los brazos a 90º, ve subiéndolos de manera que queden totalmente extendidos. Vuélvelos a bajar y repite el ejercicio.",
+			"cantidad": "15",
+			"imagen":"https://firebasestorage.googleapis.com/v0/b/app-rutina-gym.appspot.com/o/press-banca.jpg?alt=media&token=d1d40a17-d943-4010-a32d-e1dbf808f7e7"
+		},{
+			"ejercicio": "Flexiones",
+			"descripcion": "Si puedes sin rodillas, y si no, apoyándolas en el suelo. Eso sí, es importante que la espalda se mueva en bloque y esté totalmente recta, no fuerces las lumbares.",
+			"cantidad": "10",
+			"imagen":"https://firebasestorage.googleapis.com/v0/b/app-rutina-gym.appspot.com/o/flexiones.jpg?alt=media&token=5668537c-282c-409e-89fc-d19390f0e46b"
+		},{
+			"ejercicio": "Fondos de triceps",
+			"descripcion": "Colócate en posición de cuadrupedia invertida, apoyando las manos por detrás de tu cuerpo y separadas más allá de la anchura de los hombros. Podemos apoyar los pies manteniendo las piernas flexionadas, o si queremos más intensidad, dejaremos las piernas estiradas. Iremos flexionando los codos hasta formar un ángulo de 90º.",
+			"cantidad": "15",
+			"imagen":"https://firebasestorage.googleapis.com/v0/b/app-rutina-gym.appspot.com/o/fondos-triceps.jpg?alt=media&token=a774c50f-9b45-4276-aea1-9922ef09847a"
+		}
+	],
+	"diatres":[
+		{
+			"ejercicio": "Bicicleta",
+			"descripcion": "Entrada en calor en bicicleta",
+			"cantidad": "10 minutos",
+			"imagen":"https://firebasestorage.googleapis.com/v0/b/app-rutina-gym.appspot.com/o/bibicleta.jpg?alt=media&token=0e91756b-83d1-42a1-b849-5e8343ad1ee1"
+		},{
+			"ejercicio": "Sentadilla con brazos",
+			"descripcion": "Baja en sentadilla con los glúteos hacia atrás, la espalda recta, la punta de los pies hacia delante, al igual que los brazos, y el abdomen contraído. Mantén el pecho levantado y asegúrate de que la planta de los pies toque el suelo en todo momento.",
+			"cantidad": "15",
+			"imagen":"https://firebasestorage.googleapis.com/v0/b/app-rutina-gym.appspot.com/o/sentadilla-brazos.jpg?alt=media&token=fcf45d89-e4aa-4a94-b3b3-4c4685502f38"
+		},{
+			"ejercicio": "Peso muerto",
+			"descripcion": "De pie, con las rodillas ligeramente flexionadas y los pies separados, inclina el tronco superior mientras bajas los brazos en dirección al suelo, buscando los pies. Siempre debes mantener la espalda recta. Las rodillas no tienen que moverse y las piernas, siempre flexionadas.",
+			"cantidad": "20",
+			"imagen":"https://firebasestorage.googleapis.com/v0/b/app-rutina-gym.appspot.com/o/peso-muerto.jpg?alt=media&token=f3d69705-4b07-4a31-8091-afca5434b8a2"
+		},{
+			"ejercicio": "Elevación de talones",
+			"descripcion": "De pie, levanta los talones hasta que estés aguantándote con las puntas de los pies (asegúrate de repartir bien el peso para no perder el equilibrio). Mantén la posición 3 o 4 segundos y luego vuelve a bajar los talones. Para más intensidad, ponte tobilleras con peso.",
+			"cantidad": "20",
+			"imagen":"https://firebasestorage.googleapis.com/v0/b/app-rutina-gym.appspot.com/o/elevacion-de-talones.jpg?alt=media&token=10490c5e-e7d2-4f07-b575-a64f4323e8f1"
+		},{
+			"ejercicio": "Puente de glúteos",
+			"descripcion": "Estírate en el suelo boca arriba, con las piernas dobladas y los brazos estirados al lado. Levanta las caderas haciendo un puente mientras aprietas los glúteos. Aguanta unos segundos y baja al suelo. Si quieres más intensidad, agrega algo de peso en la zona pélvica.",
+			"cantidad": "15",
+			"imagen":"https://firebasestorage.googleapis.com/v0/b/app-rutina-gym.appspot.com/o/puente-de-gluteos.jpg?alt=media&token=ad00e2da-cf00-4e27-a887-d37aaeaf2264"
+		},{
+			"ejercicio": "Patada en cuadrupedia",
+			"descripcion": "En cuadrupedia, nos tenemos que colocar apoyados con las manos y las rodillas al suelo, y llevar la pierna hacia atrás, hasta realizar una extensión completa de cadera.",
+			"cantidad": "15 con cada pierna",
+			"imagen":"https://firebasestorage.googleapis.com/v0/b/app-rutina-gym.appspot.com/o/patada-cuadrupedia.jpg?alt=media&token=d013aeed-74d3-453d-a031-53681f80624a"
+		},{
+			"ejercicio": "Patada de pie",
+			"descripcion": "De pie, realizamos una patada trasera subiéndola lo más alto que podamos, aguantando unos segundos y volviendo a bajar.",
+			"cantidad": "15 con cada pierna",
+			"imagen":"https://firebasestorage.googleapis.com/v0/b/app-rutina-gym.appspot.com/o/patada-de-pie.jpg?alt=media&token=6440c733-6150-40e7-b696-4d0bd3a6028f"
+		}
+	]
+}

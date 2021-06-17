@@ -1,0 +1,9 @@
+.Titulo{
+    font-size: 30px;
+    padding: 10px;
+    margin-bottom: 0px;
+    margin-top: 40px;
+    border-top: pink 0.5px solid;
+    color: pink;
+    -webkit-text-stroke: 1px rgb(233, 52, 82);
+}
